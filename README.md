@@ -6,8 +6,14 @@ My day-to-day work lives in a private company account. This profile is where I s
 
 ## Projects
 
-**[Daily Sprint Digest](https://github.com/YOUR-USERNAME/daily-sprint-digest)**
+**[Claude Skills](https://github.com/jkapinos/claude-skills)**
+A growing collection of Claude skills for project managers. Highlights:
+
+**[Daily Sprint Digest](https://github.com/jkapinos/claude-skills/tree/main/daily-sprint-digest)**
 A Claude skill that turns a day of Jira and GitHub activity into an end-of-day sprint readout ready to paste into Slack. It sorts the sprint into Completed, Progress Made, Stalled, and Not Started, compares the day against the last five readouts, and flags what's worth chasing: work that hasn't moved, tickets running slower than expected, and anything waiting on a stakeholder.
+
+**[Audience Check](https://github.com/jkapinos/claude-skills/tree/main/audience-check)**
+A Claude skill that reviews a message through the eyes of the person or team who will read it. It uses a profile built from their writing and past miscommunications to flag confusing terms, friction, and missing details, then returns a revised draft.
 
 ## What I work on
 
